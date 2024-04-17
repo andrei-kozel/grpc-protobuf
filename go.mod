@@ -1,3 +1,3 @@
-module github.com/andre-kozel/grpc-protobuf
+module github.com/andrei-kozel/grpc-protobuf
 
 go 1.22.1
